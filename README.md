@@ -1,8 +1,10 @@
-# ADSDA DataBricks
-## Applied Data Science for Data Analysts
+# Data Science with Databricks for Data Analysts
 
-### About this Course
 
-In this course, you will develop your data science skills while solving real-world problems. You'll work through the data science process to and use unsupervised learning to explore data, engineer and select meaningful features, and solve complex supervised learning problems using tree-based models. You will also learn to apply hyperparameter tuning and cross-validation strategies to improve model performance.
+## About this Specialization
 
-NOTE: This is the third and final course in the Data Science with Databricks for Data Analysts Coursera specialization. To be successful in this course we highly recommend taking the first two courses in that specialization prior to taking this course. These courses are: Apache Spark for Data Analysts and Data Science Fundamentals for Data Analysts.
+This specialization is intended for data analysts looking to expand their toolbox for working with data. Traditionally, data analysts have used tools like relational databases, CSV files, and SQL programming, among others, to perform their daily workflows. In this specialization, you will leverage existing skills to learn new ones that will allow you to utilize advanced technologies not traditionally linked to this role - technologies like Databricks and Apache Spark. By the end of this specialization, you'll be able to solve real-world business problems with Databricks and the most popular machine learning techniques.
+
+## Applied Learning Project
+
+In this specialization, you'll complete a series of hands-on lab assignments and projects. The lab assignments will allow you to test-drive Databricks and Apache Spark to streamline today's most popular data science workflows. You will also apply the latest data science strategies to complete and assess your very own data science project.
